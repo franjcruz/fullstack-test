@@ -1,0 +1,27 @@
+body {
+  padding: 50px;
+  background-color: #fff;
+  font-family: sans-serif;
+}
+
+#container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column-reverse;
+}
+
+.help-block {
+  color: #ff0000;
+}
+
+.panel-body {
+  padding: 15px 20px;
+  position: relative;
+}
+
+.panel {
+  margin-bottom: 0.75rem;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  background: #dee2e6;
+}

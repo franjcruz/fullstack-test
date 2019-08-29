@@ -2,7 +2,7 @@
 
 ## Setup con Docker
 
-User [docker-compose](https://docs.docker.com/compose/) para levantar el stack. Los datos son éfimeros y los contenedores desaparecerán cuando el stack se baje.
+Use [docker-compose](https://docs.docker.com/compose/) para levantar el stack. Los datos son éfimeros y los contenedores desaparecerán cuando el stack se baje.
 
 Para levantar,
 
